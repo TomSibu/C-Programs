@@ -1,10 +1,10 @@
 /**********************************************************************************
-* File			:	PolynomialAddition_LinkedList.c
+* File		:	PolynomialAddition_LinkedList.c
 * Program       :	Program to implement Polynomial Addition using Linked List
-* Language      :   C
-* Author        :   Tom Sibu
-* Version       :   1.0
-* Date          :   07/11/2023
+* Language      :   	C
+* Author        :   	Tom Sibu
+* Version       :   	1.0
+* Date          :   	07/12/2023
 ***********************************************************************************/
 
 #include <stdio.h>
