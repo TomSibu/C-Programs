@@ -1,11 +1,10 @@
 /**********************************************************************************
-* Experiment No	:	9
-* Aim           :	Program to implement Polynomial Addition using Linked List
-* Name          :	Tom Sibu
-* Class         :	S3 CSE B
-* Roll No       :	63
-* System No     :	31
-* Date          :	30/11/2023
+* File			:	PolynomialAddition_LinkedList.c
+* Program       :	Program to implement Polynomial Addition using Linked List
+* Language      :   C
+* Author        :   Tom Sibu
+* Version       :   1.0
+* Date          :   07/11/2023
 ***********************************************************************************/
 
 #include <stdio.h>
